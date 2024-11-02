@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui;
+    background: #e0c4df;
+    color: black;
+    
+      h1 {
+      color: purple;         
+      font-family: Engravers MT;
+      text-align: center;
+  }
+    
+     p {
+        color: black;
+       font-family: ariel;
+       text-align: center;
+      }

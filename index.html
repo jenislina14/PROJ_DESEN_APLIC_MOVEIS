@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <h1>Loja Hardware</h1>
+ <p>Encontre os melhores produtos de hardware aqui!</p>
+         <div class="product">
+            <span> Mouse - R$ 80,00</span>
+            <button onclick="addToCart('Mouse', 80)">Adicionar ao Carrinho</button>
+        </div>
+
+   <div class="product">
+            <span>Headset - R$ 100,00</span>
+            <button onclick="addToCart('Headset', 100)">Adicionar ao Carrinho</button>
+        </div>
+   
+          </div>
+        <div class="product">
+            <span>Teclado Mecanico - R$ 150,00</span>
+            <button onclick="addToCart('Teclado Mecanico', 150)">Adicionar ao Carrinho</button>
+        </div>
+  
+      <div class="cart">
+        <h2>Carrinho de Compras</h2>
+        <div id="cart-items"></div>
+        <h3 id="total-price">Total: R$ 0,00</h3>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
