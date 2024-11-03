@@ -4,6 +4,6 @@
  #### Nome e Matricula dos Alunos:
  1. Jenifer Avelino de Souza M:2017102131
  2. Shayra Santos Ferreira   M:2022100726
- 3. Lidiane cerqueira        M:2015102053
+ 3. Lidiane Cerqueira        M:2015102053
  4. Igor Carvalho Machado    M:2021100743
 
